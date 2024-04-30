@@ -8,6 +8,8 @@ You can use it as a starting point if you want to distribute your software.
 You can install the package using pip and git path (assuming you have git installed)
 
 `pip install git+https://github.com/JakubSido/example_package.git`
+   
+
 
 ## Install from Local Folder 
 You can clone the repository (or download as zip and extract) and install this package from the package folder using
@@ -80,3 +82,4 @@ tests\test_counts.py ..                                                         
 ============================================================================================= 2 passed in 0.02s =============================================================================================
 ```
 
+TEST
