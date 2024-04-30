@@ -20,6 +20,7 @@ classifiers = [
 
 [project.scripts]
 expac = "example_package.cli:main"
+mretin-salstat = "example_package.20. 2. - main.py:main"
 
 
 [project.urls]
